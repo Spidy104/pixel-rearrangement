@@ -1,0 +1,17 @@
+/target/
+/output/
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.mp4
+*.zip
+*.bin
+
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
